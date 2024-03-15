@@ -12,4 +12,8 @@
     </Reference>
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="My.FirstClassLibrary" Version="0.1.0" />
+  </ItemGroup>
+
 </Project>
